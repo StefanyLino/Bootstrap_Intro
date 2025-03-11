@@ -1,0 +1,37 @@
+h1{
+font-weight: bold;
+}
+
+body{
+    background-color: #BFBBB4;
+}
+
+h1{
+    color: #403529;
+}
+
+label{
+    color: #403529;
+    font-weight: bold;
+}
+
+.container{
+    -webkit-box-shadow: 0px 2px 74px -21px rgba(0, 0, 0, 0.212);
+    -moz-box-shadow: 0px 2px 74px -21px rgba(0,0,0,0.212);
+    box-shadow: 0px 2px 74px -21px rgba(0,0,0,0.212);
+    padding: 2rem;
+}
+
+.btn{
+    background-color: #403529;
+    transition: 0.3s;
+}
+
+.btn:hover{
+    background-color: #2c241b;
+}
+
+form img{
+    width: 20rem;
+
+}
