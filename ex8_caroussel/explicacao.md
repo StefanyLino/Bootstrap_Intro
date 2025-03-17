@@ -1,10 +1,10 @@
-# Exercício 8: Carousel com Bootstrap
+# Exercício 8: Carroussel com Bootstrap
 
-**Objetivo:** Criar um carousel (slideshow) responsivo utilizando Bootstrap, demonstrando a implementação de um componente de apresentação de imagens com controles de navegação.
+**Objetivo:** Criar um carrossel (slideshow) responsivo utilizando Bootstrap, demonstrando a implementação de um componente de apresentação de imagens com controles de navegação.
 
 ---
 ## Descrição:
-Este exercício demonstra a criação de um carousel Bootstrap, que é um slideshow para apresentação de imagens em sequência. O carousel inclui controles de navegação e transições automáticas entre os slides.
+Este exercício demonstra a criação de um carroussel Bootstrap, que é um slideshow para apresentação de imagens em sequência. O carroussel inclui controles de navegação e transições automáticas entre os slides.
 
 ---
 ## Passo 1: Configuração Inicial
