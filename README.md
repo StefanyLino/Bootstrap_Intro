@@ -53,7 +53,7 @@
 #
 
 11. Layout completo
-<img width="702" alt="image" src="https://github.com/user-attachments/assets/68c8bc8e-dc4d-44be-826a-1fdb42d99d48" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/68c8bc8e-dc4d-44be-826a-1fdb42d99d48" />
 
 
 
