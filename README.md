@@ -50,6 +50,12 @@
 10. Alert, toast e progress bar
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/4c648b98-6bbb-4a45-b026-60efb4b22e16" />
 
+#
+
+11. Layout completo
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/68c8bc8e-dc4d-44be-826a-1fdb42d99d48" />
+
+
 
 
 
