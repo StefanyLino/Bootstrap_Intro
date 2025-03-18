@@ -45,6 +45,11 @@
 9. Carrossel de imagens
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/15ac9c1b-b43a-4405-bad6-2a140374e9e4" />
 
+#
+
+10. Alert, toast e progress bar
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/4c648b98-6bbb-4a45-b026-60efb4b22e16" />
+
 
 
 
